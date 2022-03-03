@@ -24,12 +24,12 @@ namespace day_9_EmplyoeeWageProblem
             //UC4.SwitchCase();
 
             //UC-5-Switch Case Solved
-              UC_5_WageForMonth UC5 = new UC_5_WageForMonth();
-              UC5.MonthWage();
+            //UC_5_WageForMonth UC5 = new UC_5_WageForMonth();
+            //UC5.MonthWage();
 
-            //////UC-6-Wage By Condition Satisfied
-            ////UC_6_ConditionWageCalculation UC6 = new UC_6_ConditionWageCalculation();
-            ////UC6.MaxConditionSatisfied();
+            //UC-6-Wage By Condition Satisfied
+              UC_6_ConditionWageCalculation UC6 = new UC_6_ConditionWageCalculation();
+              UC6.MaxConditionSatisfied();
 
 
             ////UC_8_MultipleCompanyWage DMart = new UC_8_MultipleCompanyWage("DMart", 20, 2, 10);
