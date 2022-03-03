@@ -12,12 +12,12 @@ namespace day_9_EmplyoeeWageProblem
             //UC1.CheckPresentAbsent();
 
             //UC-2-Daily Emplyoee Wage Calculation
-              UC_2_CalDailyEmpWage UC2 = new UC_2_CalDailyEmpWage();
-              UC2.DailWageCalculation();
+            //UC_2_CalDailyEmpWage UC2 = new UC_2_CalDailyEmpWage();
+            //UC2.DailWageCalculation();
 
-            ////UC-3-Problem
-            //UC_3_PartFullTime UC3 = new UC_3_PartFullTime();
-            //UC3.CalPartFullTime();
+            //UC-3-Problem
+              UC_3_PartFullTime UC3 = new UC_3_PartFullTime();
+              UC3.CalPartFullTime();
 
             ////UC-4-Solved Using Case Statment
             //UC_4_SwitchCaseProblem UC4 = new UC_4_SwitchCaseProblem();
