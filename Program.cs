@@ -20,12 +20,12 @@ namespace day_9_EmplyoeeWageProblem
             //UC3.CalPartFullTime();
 
             //UC-4-Solved Using Case Statment
-              UC_4_SwitchCaseProblem UC4 = new UC_4_SwitchCaseProblem();
-              UC4.SwitchCase();
+            //UC_4_SwitchCaseProblem UC4 = new UC_4_SwitchCaseProblem();
+            //UC4.SwitchCase();
 
-            ////UC-5-Switch Case Solved
-            //UC_5_WageForMonth UC5 = new UC_5_WageForMonth();
-            //UC5.MonthWage();
+            //UC-5-Switch Case Solved
+              UC_5_WageForMonth UC5 = new UC_5_WageForMonth();
+              UC5.MonthWage();
 
             //////UC-6-Wage By Condition Satisfied
             ////UC_6_ConditionWageCalculation UC6 = new UC_6_ConditionWageCalculation();
