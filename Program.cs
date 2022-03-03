@@ -7,13 +7,13 @@ namespace day_9_EmplyoeeWageProblem
         {
             //Console.WriteLine("Welcome to Emplyoee Wage Program using OOPS for Day-9");
 
-            ////UC-1-emplyoeecheck
-              UC_1_EmpPresentAbset UC1 = new UC_1_EmpPresentAbset();
-              UC1.CheckPresentAbsent();
+            //UC-1-emplyoeecheck
+            //UC_1_EmpPresentAbset UC1 = new UC_1_EmpPresentAbset();
+            //UC1.CheckPresentAbsent();
 
-            //////UC-2-Daily Emplyoee Wage Calculation
-            ////UC_2_CalDailyEmpWage UC2 = new UC_2_CalDailyEmpWage();
-            ////UC2.DailWageCalculation();
+            //UC-2-Daily Emplyoee Wage Calculation
+              UC_2_CalDailyEmpWage UC2 = new UC_2_CalDailyEmpWage();
+              UC2.DailWageCalculation();
 
             ////UC-3-Problem
             //UC_3_PartFullTime UC3 = new UC_3_PartFullTime();
